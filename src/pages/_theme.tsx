@@ -2,8 +2,8 @@
 export const defaultTheme = {
   primary_color: "#5b5c9d",
   secondary_color: "#9c27b0",
-  primary_text: "#637381",
-  secondary_text: "#909399",
+  primary_text: "#49545e",
+  secondary_text: "#000000",
   info_color: "#0288d1",
   error_color: "#d32f2f",
   warning_color: "#ed6c02",
