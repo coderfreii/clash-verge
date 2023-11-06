@@ -4,6 +4,7 @@
   "license": "GPL-3.0",
   "scripts": {
     "dev": "tauri dev",
+    "webview:debug": "cross-env WEBVIEW2_ADDITIONAL_BROWSER_ARGUMENTS='--remote-debugging-port=12345'  tauri dev",
     "dev:diff": "tauri dev -f verge-dev",
     "build": "tauri build",
     "tauri": "tauri",
